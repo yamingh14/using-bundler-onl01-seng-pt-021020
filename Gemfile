@@ -15,8 +15,4 @@ end
 
 group :test do
     gem "rspec"
-=======
-# gem 'awesome_print', git: 'https://github.com/awesome-print/awesome_print'
-gem "awesome_print", git: "git@github.com:awesome-print/awesome_print.git"
->>>>>>> 1f1ebcbbb7035bc69e845fcff2771da5e25e78a6
 end
